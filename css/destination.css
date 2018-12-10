@@ -1,0 +1,96 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d2a679;
+  position: fixed;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+  /*position: fixed;*/
+  font-family: 'Crete Round', serif;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+header li a:hover {
+	text-decoration: underline;
+}
+#londonbridge {
+  width: 1300px;
+  height: 600px;
+  
+}
+
+ .center {   
+  position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif TC', serif;
+    font-size: 20px;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif TC', serif;
+    font-size: 50px;
+    color: white;
+}
+.destination nav {
+  position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.destination nav a {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Noto Serif TC', serif;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+#center {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Crete Round', serif;
+  color: #33ccff;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  background-color: #f2f2f2;
+}
+.form {
+  background-color: #f2f2f2;
+  padding-left: 20px;
+}
+.form label {
+  display: block;
+  padding-bottom: 8px;
+  font-family: 'Noto Serif TC', serif;
+} 
+#subscribe {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Noto Serif TC', serif;
+}
