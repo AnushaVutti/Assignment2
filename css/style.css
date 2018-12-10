@@ -1,3 +1,6 @@
+body {
+  min-width: 20%
+}
 .parallax { 
   background-image: url("http://s1.picswalls.com/wallpapers/2015/09/20/2015-wallpaper_111525594_269.jpg"); 
   min-height: 500px; 
@@ -9,6 +12,7 @@
 img {
 	max-width: 100%;
 	height: 800px;
+
 }
 
 ul {
@@ -112,3 +116,4 @@ inner1 li {
 	text-decoration: none;
 	color: #ff8080;
 }
+
