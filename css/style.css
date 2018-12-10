@@ -1,10 +1,3 @@
-/*.parallax {
-	max-width: 100%;
-	height: 800px;
-  background-image: url("images/lonavala.jpg"); 
-  background-attachment: fixed;
-  background-size: cover;
-}*/
 .parallax { 
   background-image: url("http://s1.picswalls.com/wallpapers/2015/09/20/2015-wallpaper_111525594_269.jpg"); 
   min-height: 500px; 
@@ -50,7 +43,7 @@ header li a:hover {
 #centered {
     position: absolute;
     top: 30%;
-    left: 50%;
+    left: 55%;
     transform: translate(-60%, -50%);
     font-family: 'Lobster', cursive;
     font-size: 50px;

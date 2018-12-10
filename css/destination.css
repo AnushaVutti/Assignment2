@@ -56,6 +56,9 @@ header li a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.destination nav a:hover {
+  text-decoration: underline;
+}
 .destination nav a {
   padding-left: 20px;
   padding-right: 20px;
